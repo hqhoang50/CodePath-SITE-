@@ -29,7 +29,7 @@ If you're feeling fancy you can add interactivity to your site with JavaScript.
 
 ### ← assets
 
-Drag in `assets`, like images or music, to add them to your project
+![SITE](https://user-images.githubusercontent.com/74430044/110528793-25c9a880-80de-11eb-923b-e7e57dc0afb5.gif)
 
 Made by [Glitch](https://glitch.com/)
 -------------------
